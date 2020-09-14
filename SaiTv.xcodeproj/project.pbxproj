@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9DAC783B250F45E60018269F /* saitvaboutus.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9DAC783A250F45E60018269F /* saitvaboutus.jpeg */; };
+		9DAC783D250F47DA0018269F /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DAC783C250F47DA0018269F /* facebook.png */; };
+		9DAC783F250F48050018269F /* youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DAC783E250F48040018269F /* youtube.png */; };
+		9DAC7841250F49080018269F /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAC7840250F49080018269F /* AboutUsViewController.swift */; };
 		9DE57D3C2448298D00A2EACE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D3B2448298D00A2EACE /* AppDelegate.swift */; };
 		9DE57D3E2448298D00A2EACE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D3D2448298D00A2EACE /* SceneDelegate.swift */; };
 		9DE57D402448298D00A2EACE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D3F2448298D00A2EACE /* ViewController.swift */; };
@@ -15,6 +19,8 @@
 		9DE57D482448298E00A2EACE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DE57D462448298E00A2EACE /* LaunchScreen.storyboard */; };
 		9DE57D532448298F00A2EACE /* SaiTvTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D522448298F00A2EACE /* SaiTvTests.swift */; };
 		9DE57D5E2448298F00A2EACE /* SaiTvUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D5D2448298F00A2EACE /* SaiTvUITests.swift */; };
+		9DE57D6C24482A6100A2EACE /* unnamed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DE57D6B24482A6100A2EACE /* unnamed.jpg */; };
+		9DE57D6E244885C200A2EACE /* RaiseFundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE57D6D244885C200A2EACE /* RaiseFundsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9DAC783A250F45E60018269F /* saitvaboutus.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = saitvaboutus.jpeg; sourceTree = "<group>"; };
+		9DAC783C250F47DA0018269F /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		9DAC783E250F48040018269F /* youtube.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = youtube.png; sourceTree = "<group>"; };
+		9DAC7840250F49080018269F /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		9DE57D382448298D00A2EACE /* SaiTv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SaiTv.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DE57D3B2448298D00A2EACE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DE57D3D2448298D00A2EACE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +59,8 @@
 		9DE57D592448298F00A2EACE /* SaiTvUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SaiTvUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DE57D5D2448298F00A2EACE /* SaiTvUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaiTvUITests.swift; sourceTree = "<group>"; };
 		9DE57D5F2448298F00A2EACE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DE57D6B24482A6100A2EACE /* unnamed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = unnamed.jpg; path = ../../../../Desktop/unnamed.jpg; sourceTree = "<group>"; };
+		9DE57D6D244885C200A2EACE /* RaiseFundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaiseFundsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +115,15 @@
 				9DE57D3D2448298D00A2EACE /* SceneDelegate.swift */,
 				9DE57D3F2448298D00A2EACE /* ViewController.swift */,
 				9DE57D412448298D00A2EACE /* Main.storyboard */,
+				9DAC7840250F49080018269F /* AboutUsViewController.swift */,
+				9DE57D6D244885C200A2EACE /* RaiseFundsViewController.swift */,
 				9DE57D442448298E00A2EACE /* Assets.xcassets */,
 				9DE57D462448298E00A2EACE /* LaunchScreen.storyboard */,
 				9DE57D492448298E00A2EACE /* Info.plist */,
+				9DE57D6B24482A6100A2EACE /* unnamed.jpg */,
+				9DAC783A250F45E60018269F /* saitvaboutus.jpeg */,
+				9DAC783C250F47DA0018269F /* facebook.png */,
+				9DAC783E250F48040018269F /* youtube.png */,
 			);
 			path = SaiTv;
 			sourceTree = "<group>";
@@ -233,7 +251,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DE57D482448298E00A2EACE /* LaunchScreen.storyboard in Resources */,
+				9DAC783D250F47DA0018269F /* facebook.png in Resources */,
+				9DAC783F250F48050018269F /* youtube.png in Resources */,
 				9DE57D452448298E00A2EACE /* Assets.xcassets in Resources */,
+				9DE57D6C24482A6100A2EACE /* unnamed.jpg in Resources */,
+				9DAC783B250F45E60018269F /* saitvaboutus.jpeg in Resources */,
 				9DE57D432448298D00A2EACE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,6 +281,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DAC7841250F49080018269F /* AboutUsViewController.swift in Sources */,
+				9DE57D6E244885C200A2EACE /* RaiseFundsViewController.swift in Sources */,
 				9DE57D402448298D00A2EACE /* ViewController.swift in Sources */,
 				9DE57D3C2448298D00A2EACE /* AppDelegate.swift in Sources */,
 				9DE57D3E2448298D00A2EACE /* SceneDelegate.swift in Sources */,
